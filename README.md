@@ -1,8 +1,8 @@
 # 별사탕인편 봇
 
-훈련병에게 사회 소식을 인터넷으로 자동으로 발송해주는 (별사탕인편)[https://star-candy-letter.netlify.app/]의 크롤링 & 발송 봇입니다.
+훈련병에게 사회 소식을 인터넷으로 자동으로 발송해주는 [별사탕인편](https://star-candy-letter.netlify.app/) 의 크롤링 & 발송 봇입니다.
 
-크롤링 by (@CRISPYTYPER)[https://github.com/CRISPYTYPER]
+크롤링 by [@CRISPYTYPER](https://github.com/CRISPYTYPER)
 
 ## 문의
 
