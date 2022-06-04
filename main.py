@@ -14,7 +14,7 @@ def print_line(title):
 
 util = TransferUtil()
 print_line('인편 설정 불러오기')
-target_soldiers: List[Soldier] = util.get_target_soldiers()[:5]
+target_soldiers: List[Soldier] = util.get_target_soldiers()
 print_line('validate')
 target_soldiers = list(filter(util.validate, target_soldiers))
 print_line('get_mail_config')
